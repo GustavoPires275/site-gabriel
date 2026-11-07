@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://exploretuors.netlify.app/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://exploretuors.netlify.app/img/fundo-logo.jpg</image:loc></image:image>
+    <image:image><image:loc>https://exploretuors.netlify.app/img/lencois.jpg</image:loc></image:image>
+    <image:image><image:loc>https://exploretuors.netlify.app/img/lagoa-azul.jpg</image:loc></image:image>
+    <image:image><image:loc>https://exploretuors.netlify.app/img/atins.jpg</image:loc></image:image>
+    <image:image><image:loc>https://exploretuors.netlify.app/img/jericoacoara.jpg</image:loc></image:image>
+  </url>
+</urlset>
